@@ -22,7 +22,7 @@ public class binarySearch {
                     start = mid + 1;
                 } else if (target < arr[mid]) {
                     end = mid - 1;
-                } else if (target==arr[mid]){
+                } else {
                     System.out.println("Index of target element is "+ mid);
                     break;
                 }
