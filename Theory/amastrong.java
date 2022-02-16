@@ -1,4 +1,4 @@
-package function;
+package Theory;
 import java.util.Scanner;
 public class amastrong {
 
